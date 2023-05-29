@@ -15,6 +15,10 @@ This project is a sample implementation of the Facebook login page. It is built 
 
 ## How to Run
 
+Go to - kunalkhandekar.github.io/FB-LoginPage/
+
+OR
+
 1. Clone this repository.
 2. Open the index.html file in a web browser.
 
