@@ -15,7 +15,7 @@ This project is a sample implementation of the Facebook login page. It is built 
 
 ## How to Run
 
-Go to - kunalkhandekar.github.io/FB-LoginPage/
+Go to - https://clone0-facebook-login.netlify.app/
 
 OR
 
